@@ -1,0 +1,4 @@
+Another new file for counting the numbers of the words.
+Hello.
+World.
+Python.
