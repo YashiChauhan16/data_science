@@ -1,0 +1,7 @@
+I have made data.txt
+destination.txt
+document.txt
+log.txt
+reverse.txt
+sample.txt
+source.txt

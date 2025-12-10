@@ -1,0 +1,11 @@
+{
+  "userName": "JaneDoe",
+  "userId": 12345,
+  "isActive": true,
+  "roles": ["admin", "editor"],
+  "profile": {
+    "email": "jane.doe@example.com",
+    "joined": "2023-01-15"
+  },
+  "preferences": null
+}
